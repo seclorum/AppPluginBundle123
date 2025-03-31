@@ -7,8 +7,8 @@ This is done by packaging the plugin as an .appex bundle and including it into t
 
 This repo contains an attempt at building a CMake-based JUCE/Tracktion project which has two major pieces:
 
-	* A sample "App" which has the sole purpose of being an app, available in the App Store
-	* A sample "Plugin", which has the sole purpose of being bundled into the app, as an ".appex" resource, and thus available to other CoreAudio plugin hosts, such as Cubasis and Logic, on iOS
+* A sample "App" which has the sole purpose of being an app, available in the App Store
+* A sample "Plugin", which has the sole purpose of being bundled into the app, as an ".appex" resource, and thus available to other CoreAudio plugin hosts, such as Cubasis and Logic, on iOS
 
 # Status:
 
